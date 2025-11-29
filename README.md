@@ -13,7 +13,7 @@ Bem-vindo ao instalador do **🐬 AtendeTicket**! Aqui você encontrará os coma
 Use este comando **apenas na primeira instalação**:
 
 ```bash
-sudo apt install -y git && git clone https://github.com/atendeticket/instalador.git && sudo chmod -R 777 install && cd install && sudo ./install_primaria
+ sudo apt install -y git && git clone https://github.com/atendeticket/instalador.git && sudo chmod -R 777 instalador && cd instalador && sudo ./install_primaria
 ```
 
 ---
