@@ -21,27 +21,20 @@ print_banner() {
 
   printf "\n\n"
 
-  printf "${GREEN}";
-  printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
-  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
-  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
-  printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
-  printf "                                                    █  ▄█▀        \n";
-  printf "                                                    ▀▀▀▀          \n";
-  printf "${NC}";
-
-  printf "\n"
-
-  printf "${GREEN}";
-  printf "██████  ███   █████  ████  ████   ███   ██ ██████\n";
-  printf "   ██  ██ ██  ██  ██ ██ ████ ██  ██ ██  ██ ██   \n";
-  printf "  ██  ███████ █████  ██  ██  ██ ███████ ██ ██████   \n";
-  printf " ██   ██   ██ ██     ██      ██ ██   ██ ██     ██   \n";
-  printf "█████ ██   ██ ██     ██      ██ ██   ██ ██ ██████\n";
+  printf "${BLUE}";
+  printf "              ,-.\n";
+  printf "             /  (  '\n";
+  printf "     *  _.--'!   '--._\n";
+  printf "      ,'              ''_ _____   __                     .___   ___________.__        __           __  \n";
+  printf "'    |!                  /  _  \_/  |_  ____   ____    __| _/___\__    ___/|__| ____ |  | __ _____/  |_ \n";
+  printf "   _.'  O      ___      /  /_\  \   __\/ __ \ /    \  / __ |/ __ \|    |   |  |/ ___\|  |/ // __ \   __\\n";
+  printf "  (_.-^, __..-'  ''''-./    |    \  | \  ___/|   |  \/ /_/ \  ___/|    |   |  \  \___|    <\  ___/|  |\n";
+  printf "      /,'        '    _\____|____/__|  \_____>___|__/\____ |\_____>____|   |__|\_____>__|__\\_____>__| \n";
+  printf "   '         *    .-''    |\n";
+  printf "                 (..--^.  ' \n";
+  printf "                       | /\n";
+  printf "                       '\n";
+  
   printf "${NC}";
 
   printf "\n"
