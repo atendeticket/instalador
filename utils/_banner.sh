@@ -21,7 +21,7 @@ print_banner() {
 
   printf "\n\n"
 
-  printf "${CYAN_LIGHT}";
+  printf "${BLUE}";
   printf "              ,-.\n";
   printf "             /  (  '\n";
   printf "     *  _.--'!   '--._\n";
