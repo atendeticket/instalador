@@ -45,7 +45,7 @@ O **🐬 AtendeTicket** é um sistema completo, rápido e seguro para atendiment
 ## 🌐 Links Úteis
 
 * Website oficial: [atendeticket.com.br]([https://fields.io](https://atendeticket.com.br))
-* Suporte Técnico: +5519997530219
+* Suporte Técnico: +551999582-8860
 
 ---
 
